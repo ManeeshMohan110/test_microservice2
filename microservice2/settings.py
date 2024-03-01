@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-%01g3c=tm6lt))g$3(#a)y$$ih@9!+cig_)pj8!mky&=m*t)jn
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['test-microservice-2-git-ms-test.apps.ocp4.example.com']
 
 
 # Application definition
